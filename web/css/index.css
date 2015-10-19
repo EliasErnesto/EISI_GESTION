@@ -1,0 +1,108 @@
+
+body{
+    background-color: #b0e0e6;
+}
+
+h1{
+  text-align: center;
+  color:#086A87;
+}
+
+img{
+    width:75%;
+    height:75%;
+}
+
+#imagenes{
+    float:left;
+    width:50%;
+   
+}
+
+#info{
+    float:left;
+    width: 40%;
+    text-align: right;
+    margin-left: 5%;
+}
+
+h2{
+    text-align: center;
+}
+
+#enlaces{
+    text-align: center;
+    margin-top: 15%;
+}
+
+a p{
+    text-align: center;
+    float:left;
+    width: 23%;
+    height: 20%;
+    font-size:90%;
+    font-family:arial;
+    margin-top: 0%;
+    margin-bottom: 10px;
+    padding: 1%;
+    border-radius: 8%;
+    background-color:#088da5;
+    z-index: 10000;
+}
+
+a{
+    font-size: 150%;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+navbar a p:hover{
+    font-size: 30px;
+    
+}
+navbar{
+    
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 3em;
+    
+}
+
+navbar p:hover{
+    font-size: 30px;
+}
+
+navbar p{
+    text-align: center;
+    border-radius: 5px;
+    width: 24%;
+    text-align: justify;
+    float:left;
+    font-size:25px;
+    font-family:arial;
+    
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+    background-color:#088da5;
+    
+}
+
+
+
+marquee{
+    margin-left: 5%;
+}
+
+
+p{
+    text-align: justify;
+    float:left;
+    font-size:25px;
+    font-family:arial;
+    
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+    background-color:#088da5;
+}

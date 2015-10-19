@@ -1,0 +1,103 @@
+
+
+body{
+    background-color: #A9E2F3;
+}
+
+h1{
+  text-align: center;
+  color:#086A87;
+}
+
+#labels{
+    
+    text-align: left;
+    
+}
+
+div label {
+  display: inline-block;
+  margin: 0 2em 1.5em 1em;
+  width: 25%;
+  font-size:25px;
+}
+
+div input{
+   display: inline-block;
+  margin: 0; 
+  width: 50%;
+  font-size:25px;
+}
+
+
+
+img{
+    width: 30%;
+    height: 30%;
+    margin-top: 5%;
+    margin-left: 15%;
+    float:left;
+}
+
+#registro{
+    width:25%;
+    text-align: center;
+    float:left;
+    margin-left: 6%;
+    margin-top:3%;
+    padding: 40px;
+    border-radius: 5%;
+    border-width: 2px;
+    background-color:#088da5;
+    
+}
+#btnRegistrar{
+    height: 100%;
+    background-color:#ffa500;
+    border-radius:5px;
+    border:none;
+    font-size:25px; 
+    color:white;
+    background-color:#ffa500;
+    width: 250px; height: 50px;
+    
+    
+}
+
+#btnRegistrar:hover{
+    border:1px solid #8A2BE2;
+    font-size:30px;
+}
+
+navbar{
+    
+    width: 100%;
+    display: inline-block;
+    //background-color:#088da5; 
+    margin-bottom: 3em;
+    
+}
+
+navbar p:hover{
+    font-size: 30px;
+}
+
+navbar p{
+    text-align: center;
+    border-radius: 5px;
+    width: 24%;
+    text-align: justify;
+    float:left;
+    font-size:25px;
+    font-family:arial;
+    
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+    background-color:#088da5;
+}
+
+a{
+    text-decoration: none;
+    text-decoration-color: black;
+}
